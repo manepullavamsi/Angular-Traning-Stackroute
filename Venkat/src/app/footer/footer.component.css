@@ -1,0 +1,10 @@
+footer{
+    display: flex;
+    background-color: lightseagreen;
+    height: 10vh;
+    align-items: center;
+    justify-content: center;
+}
+#para{
+    background-color: olive;
+}
